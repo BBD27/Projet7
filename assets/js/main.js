@@ -1,7 +1,7 @@
 import Carte from "../../classes/carte.js";
 import Restaurant from "../../classes/restaurant.js";
 
-fetch("https://cccms.csb.app/dataBase/dataBase.json")
+fetch("https://12bjt.csb.app/dataBase/dataBase.json")
   .then(function(response) {
     return response.json();
   })
