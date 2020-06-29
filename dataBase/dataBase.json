@@ -1,0 +1,102 @@
+[
+  {
+    "restaurantName": "Le Cantonnais",
+    "address": "620 rue de la gare 97440 Saint-André",
+    "lat": -20.96034,
+    "long": 55.655166,
+    "ratings": [
+      {
+        "stars": 5,
+        "comment": "Une bonne adresse de Saint André pour une restauration rapide mais de qualité. Entrées et plats variées. Pas d’attente et très bon accueil. Je recommande."
+      },
+      {
+        "stars": 4,
+        "comment": "Bon accueil et plats généreux sur la formule à volonté."
+      },
+      {
+        "stars": 3,
+        "comment": "J'ai trouvé le repas à emporter pas bien servi et de plus il y avait beaucoup d'attente."
+      }
+    ]
+  },
+  {
+    "restaurantName": "Restaurant chez Jules",
+    "address": "Chemin Pente Sassy 97440 Saint-André",
+    "lat": -20.966834,
+    "long": 55.6594,
+    "ratings": [
+      {
+        "stars": 5,
+        "comment": "Accueil chaleureux. Cadre très agréable. Cuisine variée, et excellente. À recommander sans restriction."
+      },
+      {
+        "stars": 4,
+        "comment": "Restaurant accueillant cuisine locale et chinoise relativement bonne et abord du restaurant fleuri avec de belles fleurs. A essayer vous ne serrez pas déçus. .."
+      },
+      {
+        "stars": 2,
+        "comment": "Salle pas très propre.. ma galette de chaise était tachée et pleins de miettes. Pas assez de menu pour tout le monde faut attendre son tour. Le porte vue sale les pages cornues. . Et pour couronner le tout prix assez élevé. ."
+      }
+    ]
+  },
+  {
+    "restaurantName": "Le Beau Rivage",
+    "address": "873 place Indira Ghandy Champ-Borne 97440 Saint-André",
+    "lat": -20.94315,
+    "long": 55.68182,
+    "ratings": [
+      {
+        "stars": 5,
+        "comment": "Bien mangé au Restaurant Le Beau Rivage le dimanche en Buffet et en semaine à la carte, personnel agréable et cuisine goûteux et savoureux. Je recommande sans hésitation."
+      },
+      {
+        "stars": 3,
+        "comment": "Très bien mangé. Attention au paiement par carte, en 2019 il y a toujours un minimum assez élevé de 15€!! Dommage..."
+      },
+      {
+        "stars": 2,
+        "comment": "Déçu car si on arrive a 13h30 pour déjeuner il ne reste plus grand chose au buffet ."
+      }
+    ]
+  },
+  {
+    "restaurantName": "Auberge du vieux pont",
+    "address": "1-3 chemin usine 97440 Saint-André",
+    "lat": -20.978758,
+    "long": 55.640687,
+    "ratings": [
+      {
+        "stars": 1,
+        "comment": "Si vous souhaitez découvrir un restaurant digne de 'cauchemar en cuisine', c'est le lieu idéale. J'adorerai y avoir Gordon Ramsay. Je suis arrivée à 19h30, j'ai pu voir mon plat arrivé 23h30. Il était froid, imangeable, et outrageusement cher pour ce que c'était.  Les boissons qui apparaissent sur la carte ne sont pas celles qui sont servie, mais des sous-marques. Les plats proposés à la carte n'existent tout simplement pas."
+      },
+      {
+        "stars": 1,
+        "comment": "Passez votre chemin Et si vous vous posez la question des avis positifs ne vous la posez pas, ce sont forcément des fake. Cher, mal servi, portion ridicule, des suppléments de tous les côtés et surtout pas bon. C est la première fois que je rédige un avis sur internet, pour vous dire a quel point il faut pas y mettre les pieds Merci"
+      },
+      {
+        "stars": 1,
+        "comment": "Les serveurs manquent d'enthousiasme . Le service ultra long."
+      }
+    ]
+  },
+  {
+    "restaurantName": "Restaurant Velli",
+    "address": "336 Chemin Colosse 97440 Saint-André",
+    "lat": -20.936212,
+    "long": 55.672264,
+    "ratings": [
+      {
+        "stars": 4,
+        "comment": "Le massalé cabri est particulièrement délicieux. Accueil sympa, sécurité sanitaire au top :  package, paiement. J'ai beaucoup  de chance d'habiter pas loin!"
+      },
+      {
+        "stars": 4,
+        "comment": "Plats d'assez bonne qualité.  Dommage qu'il y ait autant d'attente entre les plats ."
+      },
+      {
+        "stars": 5,
+        "comment": "Accueil sympathique, personnel très professionnel, rapport qualité prix très intéressant. Bravo, continuez, la Réunion est bien représentée. Merci"
+      }
+    ]
+  }
+]

@@ -1,0 +1,26 @@
+header.masthead {
+  background-image: url("assets/img/poisson.jpg");
+}
+#carte {
+  height: 500px;
+}
+#listeResto {
+  height: 390px;
+  overflow-y: scroll;
+}
+.etoile {
+  width: 5%;
+  padding-top: 5px;
+}
+.form-group {
+  margin-left: 8rem;
+  margin-right: 8rem;
+}
+
+@media (min-width: 576px) {
+  .card-columns {
+    -webkit-column-count: 1;
+    -moz-column-count: 1;
+    column-count: 1;
+  }
+}
